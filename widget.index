@@ -1,10 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-</head>
 <body>
   
   <a class="weatherwidget-io" href="https://forecast7.com/en/50d854d35/brussels/" data-label_1="BRUSSELS" data-label_2="WEATHER" data-font="Tinos" data-icons="Climacons Animated" data-days="5" data-theme="gray" >BRUSSELS WEATHER</a>
